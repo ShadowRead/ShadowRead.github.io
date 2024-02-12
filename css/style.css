@@ -52,6 +52,10 @@ h6 {
 	font-family: "Mulish", sans-serif;
 }
 
+.TitleStylePLus {
+	-webkit-text-stroke: 2px #000;
+}
+
 h1 {
 	font-size: 70px;
 }
