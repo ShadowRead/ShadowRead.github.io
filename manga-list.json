@@ -19,5 +19,12 @@
         "desc":"Un mafieux se réincarne en lycéen...",
         "tag1":"Drama",
         "tag2":"Action"
+    },
+    "4":{
+        "titre":"Zombie Apocalypse 82-08",
+        "id":"za8208",
+        "desc":"L'Apocalypse asiatique...",
+        "tag1":"Zombie",
+        "tag2":"Action"
     }
 }

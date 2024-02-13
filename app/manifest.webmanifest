@@ -1,0 +1,14 @@
+{
+  "name": "ShadowScan",
+  "short_name": "ShadowScan",
+  "start_url": "https://shadowread.github.io/",
+  "display": "fullscreen",
+  "icons": [{
+    "src": "/img/logo.jpg",
+    "sizes": "200x200",
+    "type": "image/jpg"
+  }],
+  "related_applications": [{
+    "platform": "web"
+  }]
+}
