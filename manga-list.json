@@ -1,12 +1,23 @@
 {
-    "1":[{
+    "1":{
         "titre":"Reborn As The Heavenly Martial Demon",
         "id":"rhmd",
-        "tags": {
-            "tag1":"Aventure",
-            "tag2":"Action",
-            "tag3":"Demons",
-            "tag4":"Art Martial"
-        }
-    }]
+        "desc":"On a plus de toute façon...",
+        "tag1":"Aventure",
+        "tag2":"Action"
+    },
+    "2":{
+        "titre":"Muscle Joseon",
+        "id":"ms",
+        "desc":"Un mec musclé qui remonte le temps",
+        "tag1":"Sport",
+        "tag2":"Action"
+    },
+    "3":{
+        "titre":"Reincarnated Boss",
+        "id":"rbz",
+        "desc":"Un mafieux se réincarne en lycéen...",
+        "tag1":"Drama",
+        "tag2":"Action"
+    }
 }
